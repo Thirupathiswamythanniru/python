@@ -6,9 +6,9 @@ def Nth_of_AP(a, d, N) :
        
    
 # Driver code 
-a = 10 # starting number 
+a = 2# starting number 
 d = 1  # Common difference 
-N = 1 # N th term to be find 
+N = 5 # N th term to be find 
    
 # Display the output 
 print( " ", Nth_of_AP(a, d, N)) 
