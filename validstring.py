@@ -5,5 +5,6 @@ try:
  if(n%1==0):
    print('yes')
 except:
-  print('no',end='')
+  print('No',end='')
+  
   
