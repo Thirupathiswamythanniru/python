@@ -3,4 +3,4 @@ list=[int(x) for x in input().split()]
 if m and n in list:
     print ("yes")
 else:
-    print (("No"),end='')
+    print (("no"),end='')
