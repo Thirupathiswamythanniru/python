@@ -6,4 +6,4 @@ if num>0:
           if(i!=num):
              print ((i),end=' ')
           else:
-             print((i),end='')
+             print((i),end=' ')
